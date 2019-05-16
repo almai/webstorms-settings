@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="wp-kxl-ndbx.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="bkp" type="SCSS" />
+      <mapping pattern="*.spec.ts" type="TypeScript" />
+      <mapping ext="spec" type="TypeScript" />
+      <removed_mapping pattern="*.spec.ts" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
